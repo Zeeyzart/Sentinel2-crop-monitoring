@@ -4,9 +4,8 @@ Monitoring spring barley dynamics across the 2024 growing season using Sentinel-
 satellite time series, over the experimental field where I collected my MSc thesis
 nitrous oxide (N2O) data at Aarhus University, AU Viborg (Foulum), Jutland, Denmark.
 
-![Spring barley NDVI and NDRE time series](barley_ndvi_ndre.png)
 
-## Motivation
+## Aim
 
 My MSc thesis examined the spatial variability of N2O emissions at this field
 using ground measurements and geostatistics. This project extends that work
@@ -23,7 +22,7 @@ mean annual temperature 8.2 C). In 2024 the field was sown with spring barley
 clover, and ryegrass). Mineral fertiliser was applied on 2 June 2024 at 105 kg N,
 15 kg P, and 50 kg K per hectare, uniformly across the experimental area.
 
-## Method
+## Methodology
 
 - Platform: Google Earth Engine (JavaScript API).
 - Data: Sentinel-2 Level-2A surface reflectance (COPERNICUS/S2_SR_HARMONIZED).
@@ -36,7 +35,7 @@ clover, and ryegrass). Mineral fertiliser was applied on 2 June 2024 at 105 kg N
 - Outputs: NDVI and NDRE map layers over the field, and a mean index time series
   across the season.
 
-## What the results show
+## Interpretation of the result
 
 Both indices trace the spring barley cycle: low in early spring, a steep rise
 from early June, a peak in early July, and a decline toward harvest. The June
