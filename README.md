@@ -61,6 +61,9 @@ may carry residual noise from imperfect cloud masking.
 
 ## Files
 
-- `sentinel2_smartfield.js` — the Google Earth Engine script.
-- `barley_ndvi_ndre.png` — NDVI and NDRE time series over the season.
-- `field_plots.png` — satellite view of the experimental field boundary.
+- `sentinel2_smartfield.js` - the Google Earth Engine script.
+- `Spring_barley_ndvi_ndre_chart.png` - NDVI and NDRE time series over the season.
+- `Supersite_field.jpg` - satellite view of the experimental field boundary.
+- `Sentinel2.jpg` - Sentinel-2 RGB composite of the field.
+- `NDVI.jpg`- NDVI map.
+- `NDRE.jpg` - NSRE map.
