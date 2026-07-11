@@ -51,7 +51,7 @@ interpretation is based on the red-edge signal rather than validated
 measurements. A single fertiliser event may produce only a modest change in the
 satellite signal, since the crop also draws on soil nitrogen. Some observations
 may carry residual noise from imperfect cloud masking.
-
+ 
 ## Next steps
 
 - Relate the satellite indices to measured field data where available.
